@@ -1,13 +1,11 @@
 .container {
-  background-color: #B8860B;
+  background-color: #b8860b;
   width: 100%;
   height: 80px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: white;
-  
-  
 }
 .title {
   font-style: italic;
@@ -48,7 +46,7 @@
 }
 
 .btn:hover {
-  background-color: #B8860B;
+  background-color: #b8860b;
 }
 
 @media (max-width: 768px) {
